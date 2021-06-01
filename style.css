@@ -1,3 +1,2 @@
-background{
-    linear-gradient( #add8e6 0%, #00008b 100% )
-} 
+body{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%); }
